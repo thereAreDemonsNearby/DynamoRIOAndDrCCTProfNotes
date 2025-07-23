@@ -300,6 +300,18 @@
         <mxCell id="ELaQe_ijEdDVAd6_kbek-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELaQe_ijEdDVAd6_kbek-102" target="ELaQe_ijEdDVAd6_kbek-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ELaQe_ijEdDVAd6_kbek-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELaQe_ijEdDVAd6_kbek-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELaQe_ijEdDVAd6_kbek-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="80" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ELaQe_ijEdDVAd6_kbek-112" value="&lt;div&gt;temporary&lt;/div&gt;&lt;div&gt;(freed immediately&amp;nbsp;&lt;/div&gt;&lt;div&gt;after use)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="636.5" y="56" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
