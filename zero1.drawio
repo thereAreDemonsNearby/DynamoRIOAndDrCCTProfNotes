@@ -109,15 +109,6 @@
         <mxCell id="ELaQe_ijEdDVAd6_kbek-39" value="&lt;div&gt;weight2&lt;/div&gt;&lt;div&gt;updated&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1081.5" y="240" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="210" y="760" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-49" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="780" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-48" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="760" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ELaQe_ijEdDVAd6_kbek-53" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="676.5" y="110" width="80" height="82" as="geometry" />
         </mxCell>
@@ -147,18 +138,6 @@
         </mxCell>
         <mxCell id="ELaQe_ijEdDVAd6_kbek-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="ELaQe_ijEdDVAd6_kbek-28" target="ELaQe_ijEdDVAd6_kbek-56">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="377.5" y="720" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="ELaQe_ijEdDVAd6_kbek-63">
-          <mxGeometry x="35" y="60" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="ELaQe_ijEdDVAd6_kbek-63">
-          <mxGeometry x="35" y="40" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELaQe_ijEdDVAd6_kbek-62" value="&lt;div&gt;optimizer state1&amp;nbsp;&lt;/div&gt;&lt;div&gt;shard&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ELaQe_ijEdDVAd6_kbek-63">
-          <mxGeometry width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ELaQe_ijEdDVAd6_kbek-64" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="761.5" y="30" width="110" height="100" as="geometry" />
