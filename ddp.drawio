@@ -95,11 +95,28 @@
         <mxCell id="4tHnzic4T1DWHJhX2jMt-35" value="optimizer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="226.5" width="61.5" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="mc5yU3JL7N7oaN19l31V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4tHnzic4T1DWHJhX2jMt-41" target="4tHnzic4T1DWHJhX2jMt-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="40" />
+              <mxPoint x="403" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4tHnzic4T1DWHJhX2jMt-41" value="weight1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="134" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4tHnzic4T1DWHJhX2jMt-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4tHnzic4T1DWHJhX2jMt-44" target="4tHnzic4T1DWHJhX2jMt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mc5yU3JL7N7oaN19l31V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4tHnzic4T1DWHJhX2jMt-44" target="4tHnzic4T1DWHJhX2jMt-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="340" />
+              <mxPoint x="370" y="340" />
+              <mxPoint x="370" y="249" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4tHnzic4T1DWHJhX2jMt-44" value="weight2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="224" width="40" height="60" as="geometry" />
