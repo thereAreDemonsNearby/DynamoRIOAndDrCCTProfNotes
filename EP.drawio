@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="第 1 页" id="XApkqAXvTrZzcp6OmfHy">
-    <mxGraphModel dx="983" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1180" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1386,6 +1386,15 @@
         </mxCell>
         <mxCell id="sEXIVBVAYyvHJAa7rBJ1-552" value="注：expand操作是复制操作，其反操作是累加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="867" y="2053" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEXIVBVAYyvHJAa7rBJ1-553" value="注：实线方块代表token，虚线方块代表该token的而expert id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="270" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEXIVBVAYyvHJAa7rBJ1-554" value="&lt;font style=&quot;font-size: 20px; color: rgb(255, 51, 51);&quot;&gt;device 0:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="239" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEXIVBVAYyvHJAa7rBJ1-555" value="&lt;font style=&quot;font-size: 20px; color: rgb(255, 51, 51);&quot;&gt;device 1:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="802" y="20" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
